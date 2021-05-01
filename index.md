@@ -1,6 +1,6 @@
 
 hallo
 <head>
-  <meta http-equiv="refresh" content="0; URL=///home/buselmu/Downloads/startPage/myStartPage.html" />
+  <meta http-equiv="refresh" content="2; URL=www.google.com" />
 </head>
 afsdf
