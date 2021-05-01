@@ -1,0 +1,36 @@
+html{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background:#263238;
+}
+
+* {
+}
+
+
+.row {
+  display: flex;
+  padding: 400px;
+}
+
+
+.icon {
+  padding: 100px;
+  opacity: 50;
+}
+
+.actualbild {
+  border-radius: 25px;
+  
+  opacity: 0.79;
+  transition: opacity ease 1s;
+}
+
+.actualbild:hover {
+  opacity: 1;
+  transition: opacity ease 0.2s;
+}
