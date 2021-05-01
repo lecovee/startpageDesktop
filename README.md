@@ -2,4 +2,4 @@
 my startpage
 
 
-my start page
+personal start page for my browser
