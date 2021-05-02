@@ -2,26 +2,25 @@ html{
   display: flex;
   background:#263238;
   justify-content: center;
-  align-items: center;
   height: 100%;
 }
 
 
-
 .row {
   display: flex;
-  padding: 40px;
+  margin-top: 10% !important;
+  margin: 5%;
+  width: 90%;
 }
 
 
 .icon {
-  padding: 50px;
+  margin: 2%;
   opacity: 50;
-  width: 250px;
 }
 
 .actualbild {
-  border-radius: 10px;
+  border-radius: 2.5%;
   opacity: 0.25;
   transition: opacity ease 1s;
 }
