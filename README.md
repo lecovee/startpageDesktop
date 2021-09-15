@@ -1,5 +1,5 @@
-# startpage
-my startpage
+# desktop startpage
+my desktop startpage
 
 
-personal start page for my browser
+personal start page for my desktop browser
